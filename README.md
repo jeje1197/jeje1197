@@ -2,9 +2,13 @@
   <img src="./github-header-image.png"/>
   <br/>
   <!-- <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="150"/> -->
+  
   <div id="badges">
     <a href="https://www.linkedin.com/in/josephevans0">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://josephevans.netlify.app/">
+      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
     </a>
   </div>
 </div>
@@ -13,7 +17,7 @@
 
 ### :fire: My Stats:
 ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeje1197&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeje1197&theme=radical&count_private=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeje1197&theme=radical&count_private=true)
 
 ---
 
