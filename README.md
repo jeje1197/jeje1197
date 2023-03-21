@@ -18,11 +18,8 @@
 ### :fire: My Stats:
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=jeje1197&show_icons=true&theme=radical&count_private=true" alt="Github Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeje1197&theme=radical&count_private=true" alt="Top Languages" height="195">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeje1197&theme=radical&count_private=true&langs_count=4&hide=tex" alt="Top Languages" height="195">
 </div>
-
-<!-- ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeje1197&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeje1197&theme=radical&count_private=true) -->
 
 ---
 
