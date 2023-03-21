@@ -12,9 +12,8 @@
 ---
 
 ### :fire: My Stats:
-
 ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeje1197&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeje1197&count_private=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeje1197&theme=radical&count_private=true)]
 
 ---
 
@@ -27,7 +26,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on Neetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josephevans0)
+- :mailbox:How to reach me: 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephevans0) 
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](josephev4@gmail.com)
 
 ---
 
