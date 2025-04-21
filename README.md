@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :musical_note: Exploring Sound Engineering and Musicianship.
 
-- :zap: In my free time, I solve problems on Neetcode and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
 - :mailbox:How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephevans0) 
